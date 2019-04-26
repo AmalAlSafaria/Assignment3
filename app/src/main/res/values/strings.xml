@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Assignment3_AmalAl-Safaria</string>
+    <string name="wifi">WIFI</string>
+    <string name="textview">TextView</string>
+</resources>
